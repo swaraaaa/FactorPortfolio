@@ -104,11 +104,14 @@ FactorPortfolio/
 ├── factor_portfolio_optimization.py    # Full implementation — factor model, optimization, backtesting
 └── Plots/
     ├── CumulativePnL.jpeg              # Growth of $100: Strategy I vs II vs SPY
+    ├── PerformanceSummary.jpeg         # Full performance summary table
+    ├── PerformanceComparison.jpeg      # Side-by-side performance metrics
     ├── StrategyI.jpeg                  # Strategy I return distribution
     ├── StrategyII.jpeg                 # Strategy II return distribution
-    ├── PerformanceComparison.jpeg      # Side-by-side performance metrics
     ├── TermStructureSensitivity.jpeg   # Sensitivity to estimation horizons
     └── SensitivityAcrossLambda.jpeg    # Sensitivity to risk-aversion parameter
+
+
 ```
 
 ---

@@ -101,7 +101,7 @@ Solved using **SLSQP** (SciPy nonlinear optimizer)
 
 ```
 FactorPortfolio/
-├── fe630_fall25_solution.py    # Full implementation — factor model, optimization, backtesting
+├── factor_portfolio_optimization.py    # Full implementation — factor model, optimization, backtesting
 └── Plots/
     ├── CumulativePnL.jpeg              # Growth of $100: Strategy I vs II vs SPY
     ├── StrategyI.jpeg                  # Strategy I return distribution
@@ -122,7 +122,7 @@ pip install numpy pandas matplotlib scipy cvxpy statsmodels yfinance
 ```
 3. Run the script:
 ```bash
-python fe630_fall25_solution.py
+python factor_portfolio_optimization.py
 ```
 
 > **Note:** Stock data is fetched automatically via `yfinance`. Fama-French factor data is downloaded from [Ken French's Data Library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html). No manual data download required.

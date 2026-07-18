@@ -2,7 +2,7 @@
 
 **Fama-French Three-Factor Model · Portfolio Optimization · Long-Short Strategy · Risk Management · Python**
 
-> FE-630 Final Project — MS Financial Engineering, Stevens Institute of Technology (Dec 2025)
+> FE-630 Final Project — MS Financial Engineering, Stevens Institute of Technology
 
 > Author: Swara Dave
 
